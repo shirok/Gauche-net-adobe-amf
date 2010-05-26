@@ -1,0 +1,5 @@
+This module provides the means to encode and decode
+Adobe's Action Message Format (AMF0 and AMF3).
+
+This is still a partial implementation.  The code has
+been used in a project, but not well tested.
